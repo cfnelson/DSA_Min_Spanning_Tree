@@ -243,7 +243,7 @@ void graphType <vType, size>::breadthFirstTraversal()
 	
    delete [] visited;
    delete [] adjacencyList;
-}																	//- End breadthFirstTraversal
+}																//- End breadthFirstTraversal
 #endif
 ///////////////////////////////////////////////////////////////////////////////////
 // END OF FILE
